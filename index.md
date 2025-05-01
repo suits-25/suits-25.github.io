@@ -27,14 +27,14 @@ The symposium will feature four internationally recognized keynote speakers, eac
 * [Jens Malmodin]()<br>
   Senior Specialist, Ericsson Research, Ericsson AB, Sweden <br>
   Jens Malmodin is an expert in environmental assessments and life cycle analysis within the Information and Communication Technology (ICT) sector. He will give the opening keynote on evaluating the energy consumption and greenhouse gas emissions associated with ICT products, networks, and services.
-* [Fernando Castor]()<br>
+* [Fernando Castor](https://fernandocastor.github.io/)<br>
   Associate Professor, University of Twente, Netherlands <br>
   Fernando Castor is an expert in efficient methods for developing energy-efficient software systems, e.g, leveraging design diversity of pre-existing software components and employing software refactoring techniques. He will deliver a keynote on green software development.
-* [Michael Welzl]()<br>
+* [Michael Welzl](https://www.mn.uio.no/ifi/english/people/aca/michawe/)<br>
   Professor, University of Oslo, Norway <br>
   Michael Welzl is an expert transport protocols, congestion control, and optimizing network operations to minimizing energy waste in data transmission. He is chairing the Internet Research Task Force _Sustainability and the Internet Proposed Research Group_
   He will deliver a keynote lecture on energy-efficient networking and data transmission.
-* [Kerstin Eder]() <br>
+* [Kerstin Eder](https://research-information.bris.ac.uk/en/persons/kerstin-i-eder) <br>
   Professor, University of Bristol, United Kingdom <br>
   Kerstin Eder is an expert in energy-aware system design and verification. Her research on energy transparency, modeling, and optimization for embedded systems and processors, including frameworks like EACOF and EnergyAnalyzer, has advanced sustainable computing. She will deliver a keynote on software-driven energy efficiency and system-level optimization.
 
@@ -50,8 +50,7 @@ The symposium will feature four internationally recognized keynote speakers, eac
 
 <figure>
   <a href="https://direc.dk/" target="_blank"><img src="images/DIREC.png" width="400" alt="DIREC"></a>
-  <figcaption>Support was gratefully received from DIREC, 
-Digital Research Centre Denmark.</figcaption>
+  <figcaption>Support was gratefully received from DIREC, Digital Research Centre Denmark.</figcaption>
 </figure>
 <!-- <figure>
   <a href="https://www.prosa.dk/" target="_blank"><img src="images/prosa.svg" width="400" alt="PROSA"></a>
