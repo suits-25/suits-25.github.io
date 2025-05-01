@@ -51,7 +51,7 @@ The symposium will feature four internationally recognized keynote speakers, eac
 ## Sponsor and support
 
 <figure>
-  <a href="https://direc.dk/" target="_blank"><img src="images/DIREC.png" width="200" alt="DIREC"></a>
+  <a href="https://direc.dk/" target="_blank"><img src="images/DIREC.png" width="300" alt="DIREC"></a>
   <figcaption>Support was gratefully received from DIREC, Digital Research Centre Denmark.</figcaption>
 </figure>
 <!-- <figure>
