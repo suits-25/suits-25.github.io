@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Symposium on Sustainable IT Systems (SUITS) - {{ page.title }}</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript">
+        function toggleNext(e){
+          var subElement = e.nextElementSibling;
+          subElement.style.display = subElement.style.display === 'none' ? 'inline' : 'none';
+        }
+    </script>
+  </head>
+  <body>
+    <div class="title">Symposium on Sustainable IT Systems (SUITS)</div>
+    <div class="place">September 22 - 25 2025, Copenhagen, Denmark</div>
+    {% include navigation.html %}
+    <div class="horizontal-images">
+      <img src="images/geocenter.jpg" alt="The Geocenter Copenhagen"/>
+      <img src="images/glostrupParkHotel.jpg" alt="The Observatory by botanical garden"/>
+      <img src="images/olhalle.png" alt="Cafe og Ølhalle 1892"/>
+    </div>
+    <div class="sponsor">Support and Sponsors</div>
+    <div class="sponsor-images">
+      <a href="https://direc.dk" target="_blank"><img src="images/DIREC.png" alt="DIREC"/></a>
+      <a href="https://ruc.dk/en" target="_blank"><img src="images/RUC-logo.jpg" alt="Roskilde University"/></a>
+      <a href="https://www.ku.dk/english/" target="_blank"><img src="images/ku.png" alt="University of Copenhagen"/></a>
+    </div>
+    <section>
+      {{ content }}
+    </section>
+    <footer>
+      <!-- &copy; to me -->
+    </footer>
+  </body>
+</html>
