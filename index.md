@@ -51,7 +51,7 @@ The symposium will feature four internationally recognized keynote speakers, eac
 ## Sponsor and support
 
 <figure>
-  <a href="https://direc.dk/" target="_blank"><img src="images/DIREC.png" heigth="50" alt="DIREC"></a>
+  <a href="https://direc.dk/" target="_blank"><img src="images/DIREC.png" heigth="200" alt="DIREC"></a>
   <figcaption>Support was gratefully received from DIREC, Digital Research Centre Denmark.</figcaption>
 </figure>
 <!-- <figure>
@@ -60,11 +60,11 @@ The symposium will feature four internationally recognized keynote speakers, eac
 </figure>
  -->
 <figure>
-  <a href="https://ruc.dk/en" target="_blank"><img src="images/RUC-logo.jpg" heigth="100" alt="Roskilde University"></a>
+  <a href="https://ruc.dk/en" target="_blank"><img src="images/RUC-logo.jpg" width="150" alt="Roskilde University"></a>
   <figcaption>Roskilde University supports SUITS'25 with organisation.</figcaption>
 </figure>
 <figure>
-  <a href="https://www.ku.dk/english/" target="_blank"><img src="images/ku.png" heigth="50" alt="University of Copenhagen"></a>
+  <a href="https://www.ku.dk/english/" target="_blank"><img src="images/ku.png" width="200" alt="University of Copenhagen"></a>
   <figcaption>University of Copenhagen supports SUITS'25 with organisation.</figcaption>
 </figure>
 
