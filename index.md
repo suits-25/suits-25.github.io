@@ -21,7 +21,18 @@ Registration deadline: TBD<br>
 Late Registration deadline: TBD <br>
 Symposium dates: September 22 - 25 2025
 
-* <a href="call-for-participation.html">Call for participation</a>
+<!-- * <a href="call-for-participation.html">Call for participation</a> -->
+
+## Venue
+SUITS 2025 will be held at:<br>
+Glostrup Park Hotel<br>
+Hovedvejen 41<br>
+2600 Glostrup<br>
+Denmark<br>
+<br>
+[Website](https://www.parkhotel.dk/)
+[Map](https://maps.app.goo.gl/zarC8AArpoNfE39E6)
+
 
 ## Invited speakers
 The symposium will feature four internationally recognized keynote speakers, each representing a crucial subfield within sustainable IT systems. Together, they cover the energy and carbon implications of ICT infrastructures from hardware and networks to software and systems-level optimization. All keynotes have confirmed their participation.
