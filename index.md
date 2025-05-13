@@ -27,6 +27,7 @@ Save the dates! Sign-up will be ready soon.
 
 ## Venue
 SUITS 2025 will be held at:<br>
+<br>
 Glostrup Park Hotel<br>
 Hovedvejen 41<br>
 2600 Glostrup<br>
