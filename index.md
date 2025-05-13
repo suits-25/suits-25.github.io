@@ -21,6 +21,8 @@ Registration deadline: TBD<br>
 Late Registration deadline: TBD <br>
 Symposium dates: September 22 - 25 2025
 
+Save the dates! Sign-up will be ready soon.
+
 <!-- * <a href="call-for-participation.html">Call for participation</a> -->
 
 ## Venue
