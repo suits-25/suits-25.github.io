@@ -69,7 +69,7 @@ The symposium will feature four internationally recognized keynote speakers, eac
   <figcaption>Support was gratefully received from DIREC, Digital Research Centre Denmark.</figcaption>
 </figure>
 <figure>
-  <a href="https://novonordiskfonden.dk/en/" target="_blank"><img src="images/nnf.png" width="400" alt="Novo Nordisk Foundation"></a>
+  <a href="https://novonordiskfonden.dk/en/" target="_blank"><img src="images/nnf2.png" width="400" alt="Novo Nordisk Foundation"></a>
   <figcaption>Support was gratefully received from the Novo Nordisk Foundation.</figcaption>
 </figure>
 <figure>
