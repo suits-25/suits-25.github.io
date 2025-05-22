@@ -68,11 +68,10 @@ The symposium will feature four internationally recognized keynote speakers, eac
   <a href="https://direc.dk/" target="_blank"><img src="images/DIREC.png" width="300" alt="DIREC"></a>
   <figcaption>Support was gratefully received from DIREC, Digital Research Centre Denmark.</figcaption>
 </figure>
-<!-- <figure>
-  <a href="https://www.prosa.dk/" target="_blank"><img src="images/prosa.svg" width="400" alt="PROSA"></a>
-  <figcaption>Sponsorship was gratefully received from the PROSA, Danish union for IT-professionals.</figcaption>
+<figure>
+  <a href="https://novonordiskfonden.dk/en/" target="_blank"><img src="images/prosa.svg" width="400" alt="PROSA"></a>
+  <figcaption>Support was gratefully received from the Novo Nordisk Foundation.</figcaption>
 </figure>
- -->
 <figure>
   <a href="https://ruc.dk/en" target="_blank"><img src="images/RUC-logo.jpg" width="150" alt="Roskilde University"></a>
   <figcaption>Roskilde University supports SUITS'25 with organisation.</figcaption>
