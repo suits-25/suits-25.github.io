@@ -19,7 +19,7 @@ The following is a draft program outline.
   * 15:00 Coffee and Cake Break
   * 15:30 Keynote Speaker #1: Jens Malmodin:<br>
     Evaluating the energy consumption and greenhouse gas emissions associated with ICT products, networks, and services.
-  * 16:30 Moderated Discussion
+  * 16:30 Moderated Opening Discussion
   * 17:00 Student, Doctoral, and Young Researchers forum<br>
     ~6 early-career researchers will present their ongoing or exploratory work. Each presentation will receive structured feedback from senior researchers, fostering valuable input and mentoring.
   * 18:30 Dinner
