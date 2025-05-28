@@ -6,7 +6,7 @@ title:
 ## About SUITS 2025
 This 3-day seminar (over 4 days) will bring together researchers within sustainable IT, i.e. energy-efficiency and green programming to identify open problems, foster new research ideas and collaborations, and discuss new and ongoing work. An important aim of the seminar is to enable PhD students and young researchers to spar with experienced Danish and international researchers.
 
-[If you want to receive information about SUITS, please, fill the form in this link.](https://nettskjema.no/a/suits)
+[If you want to receive information about SUITS, please, fill the form in this link.](https://nettskjema.no/a/suits-info)
 
 ### Purpose
 The purpose of the symposium is to foster collaboration and knowledge exchange within the emerging and dynamic field of sustainable IT.
