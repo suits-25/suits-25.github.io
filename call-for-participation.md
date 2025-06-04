@@ -46,7 +46,7 @@ The purpose of SUITS is to bring together a varied group of experts and students
 The participation cost for SUITS is 2.000 DKK (about 270 EUR) covering hotel (three nights), social event, and all meals during the symposium. We can provide partial support grants for travel and other costs to participants with limited funding or extra needs; the application process will be detailed later.
 
 ## Submission guidelines
-Researchers wishing to participate at SUITS are requested to submit short abstracts (maximum 800 characters) providing motivation and research direction for their work. You can expect readers to have knowledge about relevant background.
+Researchers wishing to participate at SUITS are requested to submit short abstracts (English, maximum 800 characters) providing motivation and research direction for their work. You can expect readers to have knowledge about relevant background.
 
 Provide your submission on the following page:
 
