@@ -31,7 +31,7 @@ The chairs are supported by a committee of senior researchers from major Danish 
   Professor, Technical University of Denmark.<br>
   Internationally recognized expert in optical communication and high-speed, energy-efficient network technologies.
   * [Mahyar Tourchi Moghaddam](https://portal.findresearcher.sdu.dk/da/persons/mtmo) <br>
-  Assistant Professor, University of Southern Denmark.<br>
+  Associate Professor, University of Southern Denmark.<br>
   Researcher in AI systems, with a focus on sustainable machine learning and energy-efficient AI infrastructures.
   * [Pínar Tözün](https://pure.itu.dk/en/persons/pinar-t%C3%B6z%C3%BCn) <br>
   Associate Professor, IT University of Copenhagen.<br>
