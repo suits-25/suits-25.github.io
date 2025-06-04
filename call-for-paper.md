@@ -65,7 +65,7 @@ Provide your submission on the following page:
   * Bent Thomsen, Professor, Aalborg University
   * Henrik Bærbak Christensen, Professor, Aarhus University
   * Leif Katsuo Oxenløwe, Professor, Technical University of Denmark
-  * Mahyar Tourchi Moghaddam, Assistant Professor, University of Southern Denmark
+  * Mahyar Tourchi Moghaddam, Associate Professor, University of Southern Denmark
   * Niels-Kristian Hersoug, Researcher, Technical University of Denmark
   * Pínar Tözün, Associate Professor, IT University of Copenhagen
 
