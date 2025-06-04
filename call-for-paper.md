@@ -52,6 +52,17 @@ Provide your submission on the following page:
 
 [https://nettskjema.no/a/suits](https://nettskjema.no/a/suits)
 
+## Invited Speakers
+
+  * Jens Malmodin, Ericsson Research, Ericsson AB, Sweden: <br>
+    Evaluating the energy consumption and greenhouse gas emissions associated with ICT products, networks, and services.
+  * Fernando Castor, Associate Professor, University of Twente, Netherlands: <br>
+    Green software development and energy-efficient system design.
+  * Michael Welzl, Professor, University of Oslo, Norway: <br>
+    Energy-efficient networking and data transmission.
+  * Kerstin Eder,mProfessor, University of Bristol, United Kingdom: <br>
+    System-level energy optimization and energy-aware software design.
+
 
 
 ## Organisation committee
