@@ -36,6 +36,8 @@ We encourage PhD students, postdocs and other young researchers to contribute, b
   * green big data, cloud, and data center architecture,
   * energy harvesting communications and networks, and
   * computing affects to environment analysis and impact.
+  * energy-efficient scalable computing infrastructures.
+  * sustainable ICT applications: Grid, EV, Robotics, etc.
 
 
 ## Participation and venue
