@@ -7,7 +7,7 @@ title:
 This 4-day seminar (from noon to noon) will bring together researchers within sustainable IT, i.e. energy-efficiency and green programming to identify open problems, foster new research ideas and collaborations, and discuss new and ongoing work. An important aim of the seminar is to enable PhD students and young researchers to spar with experienced Danish and international researchers.
 
 ### Call for Abstracts and Participation
-If you are interested in participating in SUITS, please find the call below.
+If you are interested in participating in SUITS, please find detailed information in the call below.
 
 Deadline for submission of abstract: Mon August 4, 2025
 
