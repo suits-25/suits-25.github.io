@@ -6,7 +6,7 @@ title:
 ## About SUITS 2025
 This 4-day seminar (from noon to noon) will bring together researchers within sustainable IT, i.e. energy-efficiency and green programming to identify open problems, foster new research ideas and collaborations, and discuss new and ongoing work. An important aim of the seminar is to enable PhD students and young researchers to spar with experienced Danish and international researchers.
 
-### Call-for-papers
+### Call for Abstracts and Participation
 [Find the call for papers](/call-for-papers.html)
 
 ### Purpose
