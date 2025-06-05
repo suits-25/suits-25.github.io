@@ -43,7 +43,9 @@ We encourage PhD students, postdocs and other young researchers to contribute, b
 ## Participation and venue
 The purpose of SUITS is to bring together a varied group of experts and students to potential interaction and results for Sustainable IT Systems. The symposium has room for a limited number of participants (about 30). The organisation committee will, thus, make a selection based on relevance and quality of abstract, diversity of participants, and variation of academic level and fields.
 
-The participation cost for SUITS is 2.000 DKK (about 270 EUR) covering hotel (three nights), social event, and all meals during the symposium. We can provide partial support grants for travel and other costs to participants with limited funding or extra needs; the application process will be detailed later.
+The participation fee for SUITS is 2.000 DKK (about 270 EUR) covering hotel (three nights), social event, and all meals during the symposium. No travel is covered by the fee.
+
+We can provide a limited number of partial support grants for travel and other costs to participants with limited funding or extra needs. The application process will be detailed later, but it will be after the abstract acceptance.
 
 ## Submission guidelines
 Researchers wishing to participate at SUITS are requested to submit short abstracts (English, maximum 800 characters) providing motivation and research direction for their work. You can expect readers to have knowledge about relevant background.
