@@ -22,13 +22,12 @@ Beyond supporting established researchers, the symposium also aims to strengthen
 
 ## Important dates
 
-Registration deadline: TBD<br>
-Late Registration deadline: TBD <br>
+Submission of abstract: Mon August 4, 2025<br>
+Notification: Thu August 7, 2025<br>
 Symposium dates: September 22 - 25 2025
 
-Save the dates! Sign-up will be ready soon.
+[Call for Abstracts and Participation](/call-for-participation.html)
 
-<!-- * <a href="call-for-participation.html">Call for participation</a> -->
 
 ## Venue
 SUITS 2025 will be held at:<br>
