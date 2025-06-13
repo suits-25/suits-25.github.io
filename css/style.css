@@ -20,8 +20,8 @@ div.title {
 
 div.logo {
     position: absolute;
-    bottom: 0;
-    right: 0;
+    top: 0;
+    left: 0;
     height: 20px;
 }
 
