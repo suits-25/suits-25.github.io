@@ -18,12 +18,11 @@ div.title {
     padding-bottom: 0px;
 }
 
-
 div.logo {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  width: 300px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 20px;
 }
 
 div.sponsor {
