@@ -25,7 +25,7 @@ div.logo {
 }
 
 
-.logo > img {
+div.logo > img {
     width:  20px;
     height: 12px;
     object-fit: cover;
