@@ -62,7 +62,7 @@ Provide your submission on the following page:
     Green software development and energy-efficient system design.
   * Michael Welzl, Professor, University of Oslo, Norway: <br>
     Energy-efficient networking and data transmission.
-  * Kerstin Eder,mProfessor, University of Bristol, United Kingdom: <br>
+  * Kerstin Eder, Professor, University of Bristol, United Kingdom: <br>
     System-level energy optimization and energy-aware software design.
 
 
