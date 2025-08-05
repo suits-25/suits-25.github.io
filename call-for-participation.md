@@ -12,8 +12,9 @@ Symposium on Sustainable IT Systems (SUITS)<br>
 
 ## Important dates (AoE)
 
-Submission of abstract: Mon August 4, 2025<br>
-Notification: Thu August 7, 2025<br>
+<s>Submission of abstract: Mon August 4, 2025</s><br>
+Extended Submission of abstract: Mon August 18, 2025<br>
+Notification: Wed August 20, 2025<br>
 Symposium dates: 22-25 September 2025<br>
 
 ———————————————————————-
