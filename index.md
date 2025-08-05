@@ -9,7 +9,7 @@ This 4-day seminar (from noon to noon) will bring together researchers within su
 ### Call for Abstracts and Participation
 If you are interested in participating in SUITS, please find detailed information in the call below.
 
-Deadline for submission of abstract: Mon August 18, 2025
+#### Deadline for submission of abstract: Mon August 18, 2025
 
 [Call for Abstracts and Participation](/call-for-participation.html)
 
