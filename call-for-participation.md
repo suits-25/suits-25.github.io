@@ -12,7 +12,7 @@ Symposium on Sustainable IT Systems (SUITS)<br>
 
 ## Important dates (AoE)
 
-Extended Submission of abstract: Mon August 18, 2025<br>
+Extended submission of abstract: Mon August 18, 2025<br>
 Notification: Wed August 20, 2025<br>
 Symposium dates: 22-25 September 2025<br>
 
@@ -25,7 +25,7 @@ SUITS provides a premier opportunity for young researchers (such as top graduate
 
 As this area inherently spans multiple domains of computer science, the symposium will be the _premiere event_ to convene researchers from across the scientific community—spanning software engineering, systems, hardware, and networks—to spark new collaborations between previously disconnected fields.
 
-We encourage PhD students, postdocs and other young researchers to contribute, but the symposium is open to all. Topics of interest include (but are not limited to):
+We encourage everyone, but especially PhD students, postdocs and other young researchers to contribute. Topics of interest include (but are not limited to):
 
   * energy aware programming languages and algorithms,
   * green coding and programming practice,
