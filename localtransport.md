@@ -8,7 +8,7 @@ title:
 
 ## About Copenhagen
 
-(https://www.visitcopenhagen.com/)[https://www.visitcopenhagen.com/]
+[https://www.visitcopenhagen.com/](https://www.visitcopenhagen.com/)
 
 ## Getting there from the airport
 It takes just under an hour to get from the airport to the venue hotel.
@@ -56,10 +56,10 @@ To avoid all the of calculating zones and waiting in line to buy physical ticket
 ### Usefull apps:
 
 * Rejseplanen; plan your local transport
-(https://help.rejseplanen.dk/hc/en-us/articles/115002672449-Rejseplanen-s-app)[https://help.rejseplanen.dk/hc/en-us/articles/115002672449-Rejseplanen-s-app]
+[https://help.rejseplanen.dk/hc/en-us/articles/115002672449-Rejseplanen-s-app](https://help.rejseplanen.dk/hc/en-us/articles/115002672449-Rejseplanen-s-app)
 
 * DOT Ticket; Buy tickets in an app; easiest if you just get a few.
-(https://www.publictransport.dk/app)[https://www.publictransport.dk/app]
+[https://www.publictransport.dk/app](https://www.publictransport.dk/app)
 
 * Rejsekort; Get an anonymous Rejsekort (Similar to London Oyster card); cheaper if you travel a lot. But a hassle to get, as you cannot get it at the airport.
-(https://www.rejsekort.dk/en/bestil/rejsekort-anonymt)[https://www.rejsekort.dk/en/bestil/rejsekort-anonymt]
+[https://www.rejsekort.dk/en/bestil/rejsekort-anonymt](https://www.rejsekort.dk/en/bestil/rejsekort-anonymt)
