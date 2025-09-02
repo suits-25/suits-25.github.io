@@ -52,7 +52,6 @@ Some examples:
   * Airport (Zone 4) to Centre (Zone 1): total of 3 zones! Regular price: 30 DKK.
   * Airport (Zone 4) to Glostrup (Zone 43) is 5 zones, though your will likely travel though 6 or more zones in total. Regular price: 44 DKK.
   * Centre (Zone 1) to Glostrup (Zone 43) is 4 zones. Regular price: 36 DKK.
-
   * Travel within Centre: 2 zones is the least you can buy. Regular price: 24 DKK.
 
 To avoid all the of calculating zones and waiting in line to buy physical tickets, we recommend to use the DOT Ticket app; see below.
