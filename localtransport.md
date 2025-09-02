@@ -18,7 +18,7 @@ There an no direct connection, but plenty of options with one or two changes, de
 You can always search the Rejseplanen app or Google Maps for convenient connections. But here are a couple.
 
 ### Metro and longer bus ride
-At the airport go to the metro; from arrival walk straight and up the escalators. Take the metro (line M2, this is the only one) to Vanløse St. (the end station); about 25 minutes. At Vanløse St. take bus number 19 towards Glostrup St. Get of after about 25 minutes at the stop "Byparken (Hovedvejen)". This is just three stops before the end at Glostrup St.
+At the airport go to the metro; from arrival walk straight to the end of the hall and up the escalators. Take the metro (line M2, this is the only one) to Vanløse St. (the end station); about 25 minutes. At Vanløse St. take bus number 19 towards Glostrup St. Get of after about 25 minutes at the stop "Byparken (Hovedvejen)". This is just three stops before the end at Glostrup St.
 
 ### Regional train and local train
 At the airport go the track 2 of the regional trains; from arrival walk straight, but at the end of the hall walk left or right down to track 2. Take any train to the main station (København H); depart every 10 minutes. (Don't take the trains to Sweden.) At the main station go to track 11 and 12; from here departs the local S-trans south. Take the B-line (green) towards Høje Taastrup St. Get off at Glostrup St. (8 stops, about 17 minutes).
@@ -38,7 +38,11 @@ From Glostrup station, you can either walk (1,4 km, 20 minutes) or take bus numb
 
 
 ## Local Transport
-All local transport in Copenhagen can be used with the same ticket; i.e. the same ticket works for metros, buses, S-train (local), and regional trains on the rute. 
+All local transport in Copenhagen can be used with the same ticket; i.e. the same ticket works for metros, buses, S-train (local), and regional trains on the route. 
+
+You _must_ always have a valid ticket before boarding public transport. Expect for busses (cach only), you cannot buy a ticket on the transport. If you don't have a valid ticket your will be fined 750 DKK.
+
+There are regular checks, especially on the routes to and from the airport.
 
 ### Zones
 Copenhagen is separated into zones. The price of a ticket is calculated based on the most zones you are away form your departure zone. Hence, not on the total number of zones you travel
@@ -53,7 +57,12 @@ Some examples:
 
 To avoid all the of calculating zones and waiting in line to buy physical tickets, we recommend to use the DOT Ticket app; see below.
 
-### Usefull apps:
+### A note on buses (yellow coloured)
+In most buses you enter in the front, where you show your ticket to the driver, and exists from the two back doors. 
+
+The exception to this are the A-buses (these has an red colour profile): here your can enter and exit all doors.
+
+### Useful apps:
 
 * Rejseplanen; plan your local transport
 [https://help.rejseplanen.dk/hc/en-us/articles/115002672449-Rejseplanen-s-app](https://help.rejseplanen.dk/hc/en-us/articles/115002672449-Rejseplanen-s-app)
