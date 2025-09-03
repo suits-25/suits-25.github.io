@@ -21,7 +21,7 @@ You can always search the Rejseplanen app or Google Maps for convenient connecti
 At the airport go to the metro; from arrival walk straight to the end of the hall and up the escalators. Take the metro (line M2, this is the only one) to Vanløse St. (the end station); about 25 minutes. At Vanløse St. take bus number 19 towards Glostrup St. Get of after about 25 minutes at the stop "Byparken (Hovedvejen)". This is just three stops before the end at Glostrup St.
 
 ### Regional train and local train
-At the airport go the track 2 of the regional trains; from arrival walk straight, but at the end of the hall walk left or right down to track 2. Take any train to the main station (København H); depart every 10 minutes. (Don't take the trains to Sweden.) At the main station go to track 11 and 12; from here departs the local S-trans south. Take the B-line (green) towards Høje Taastrup St. Get off at Glostrup St. (8 stops, about 17 minutes).
+At the airport go the track 2 of the regional trains; from arrival walk straight, but at the end of the hall walk left or right down to track 2. Take any train to the main station (København H); depart every 10 minutes. (Don't take the trains to Sweden from track 1.) At the main station go to track 11 and 12; from here departs the local S-trans south. Take the B-line (green) towards Høje Taastrup St. Get off at Glostrup St. (8 stops, about 17 minutes).
 
 From Glostrup station, you can either walk (1,4 km, 20 minutes) or take bus number 19 towards "Kongens Enghave Valbyparken" (it is end station, so there is only this direction) for 3 stops to "Byparken (Hovedvejen)".
 
