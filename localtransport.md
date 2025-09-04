@@ -26,7 +26,7 @@ At the airport go the track 2 of the regional trains; from arrival walk straight
 From Glostrup station, you can either walk (1,4 km, 20 minutes) or take bus number 19 towards "Kongens Enghave Valbyparken" (it is end station, so there is only this direction) for 3 stops to "Byparken (Hovedvejen)".
 
 ### Metro and local train
-If you would love to ride a self-driving metro, but hates the bus, you can take the metro (as above) but get off at Nørreport St. (9 stops, 15 minutes). From there you can take the local S-train B-line (as above) to Glostrup St.
+If you would love to ride a self-driving metro, but hates the bus, you can take the metro (as above) but get off at Nørreport St. (9 stops, 15 minutes). From the metro train walk left, up the escalator at the end. Follow the directions to Track 3-4 (a little straight and left up an escalator.) From Track 4 you can take the local S-train B-line (as above) to Glostrup St.
 
 This will be slight longer time, but not much.
 
@@ -44,17 +44,20 @@ You _must_ always have a valid ticket before boarding public transport. Expect f
 
 There are regular checks, especially on the routes to and from the airport.
 
-### Zones
-Copenhagen is separated into zones. The price of a ticket is calculated based on the most zones you are away form your departure zone. Hence, not on the total number of zones you travel
+### Ticket valididy and zones
+Copenhagen is separated into zones. The price of a ticket is calculated based on the most zones you are away form your departure zone. Hence, not on the total number of zones you travel.
+
+Tickets are also valid for a given lenght of time based on the zones of the ticket. This is again for usage of any public transport in the zones that is at most X zones away of your starting zone.
 
 Some examples:
 
-  * Airport (Zone 4) to Centre (Zone 1): total of 3 zones! Regular price: 30 DKK.
-  * Airport (Zone 4) to Glostrup (Zone 43) is 5 zones, though your will likely travel though 6 or more zones in total. Regular price: 44 DKK.
-  * Centre (Zone 1) to Glostrup (Zone 43) is 4 zones. Regular price: 36 DKK.
-  * Travel within Centre: 2 zones is the least you can buy. Regular price: 24 DKK.
+  * Airport (Zone 4) to Centre (Zone 1): total of 3 zones! Regular price: 30 DKK. Valid for 1 hour 30 minutes.
+  * Airport (Zone 4) to Glostrup (Zone 43) is 5 zones, though your will likely travel though 6 or more zones in total. Regular price: 44 DKK. Valid for 2 hours.
+  * Centre (Zone 1) to Glostrup (Zone 43) is 4 zones. Regular price: 36 DKK. Valid for 1 hour 45 minutes.
+  * Travel within Centre: 2 zones is the least you can buy. Regular price: 24 DKK. Valid for 1 hour 15 minutes.
 
 To avoid all the of calculating zones and waiting in line to buy physical tickets, we recommend to use the DOT Ticket app; see below.
+
 
 ### A note on buses (yellow coloured)
 In most buses you enter in the front, where you show your ticket to the driver, and exists from the two back doors. 
