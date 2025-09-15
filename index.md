@@ -78,11 +78,27 @@ The symposium will feature four internationally recognized keynote speakers, eac
 </figure>
 <figure>
   <a href="https://ruc.dk/en" target="_blank"><img src="images/RUC-logo.jpg" width="150" alt="Roskilde University"></a>
-  <figcaption>Roskilde University supports SUITS'25 with organisation.</figcaption>
+  <figcaption>Roskilde University.</figcaption>
 </figure>
 <figure>
   <a href="https://www.ku.dk/english/" target="_blank"><img src="images/ku.png" width="200" alt="University of Copenhagen"></a>
-  <figcaption>University of Copenhagen supports SUITS'25 with organisation.</figcaption>
+  <figcaption>University of Copenhagen.</figcaption>
+</figure>
+<figure>
+      <a href="https://www.sdu.dk" target="_blank"><img src="images/sdu.png" alt="University of Southern Denmark"/></a>
+  <figcaption>University of Southern Denmark.</figcaption>
+</figure>
+<figure>
+      <a href="https://www.itu.dk" target="_blank"><img src="images/itu.jpg" alt="IT-University"/></a>
+  <figcaption>IT-University.</figcaption>
+</figure>
+<figure>
+      <a href="https://www.dtu.dk" target="_blank"><img src="images/dtu.png" alt="Technical University of Denmark"/></a>
+  <figcaption>Technical University of Denmark.</figcaption>
+</figure>
+<figure>
+      <a href="https://www.aau.dk" target="_blank"><img src="images/aau.png" alt="Aalborg University"/></a>
+  <figcaption>Aalborg University.</figcaption>
 </figure>
 
 
