@@ -85,19 +85,19 @@ The symposium will feature four internationally recognized keynote speakers, eac
   <figcaption>University of Copenhagen.</figcaption>
 </figure>
 <figure>
-      <a href="https://www.sdu.dk" target="_blank"><img src="images/sdu.png" alt="University of Southern Denmark"/></a>
+      <a href="https://www.sdu.dk" target="_blank"><img src="images/sdu.png" width="200"  alt="University of Southern Denmark"/></a>
   <figcaption>University of Southern Denmark.</figcaption>
 </figure>
 <figure>
-      <a href="https://www.itu.dk" target="_blank"><img src="images/itu.jpg" alt="IT-University"/></a>
+      <a href="https://www.itu.dk" target="_blank"><img src="images/itu.jpg" width="200" alt="IT-University"/></a>
   <figcaption>IT-University.</figcaption>
 </figure>
 <figure>
-      <a href="https://www.dtu.dk" target="_blank"><img src="images/dtu.png" alt="Technical University of Denmark"/></a>
+      <a href="https://www.dtu.dk" target="_blank"><img src="images/dtu.png" width="200" alt="Technical University of Denmark"/></a>
   <figcaption>Technical University of Denmark.</figcaption>
 </figure>
 <figure>
-      <a href="https://www.aau.dk" target="_blank"><img src="images/aau.png" alt="Aalborg University"/></a>
+      <a href="https://www.aau.dk" target="_blank"><img src="images/aau.png" width="200" alt="Aalborg University"/></a>
   <figcaption>Aalborg University.</figcaption>
 </figure>
 
