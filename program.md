@@ -21,6 +21,10 @@ The following is a draft program outline.
     Evaluating the energy consumption and greenhouse gas emissions associated with ICT products, networks, and services.
   * 16:30 Moderated Opening Discussion
   * 17:00 Student, Doctoral, and Young Researchers forum<br>
+  	**Gudrun Gudmundsdottir** 
+  	The purpose of the PhD project is to develop a scientifically valid and transparent absolute environmental sustainability assessment (AESA) model for ICT systems, aiming at laying ground for achieving absolute sustainability of ICT services. The project starts with looking at the life cycle impact and emissions of telecommunication network infrastructure (fixed and mobile), based on measured data in Sweden and Denmark through industry partnerships. By the end of year 2025 a first draft of a system model for user emissions of data transmission will be developed.
+State-of-the-art is embedded in the system model as well as considerations on the automation of calculations and communication/transfer of emissions between industry partners. <br>
+
     ~6 early-career researchers will present their ongoing or exploratory work. Each presentation will receive structured feedback from senior researchers, fostering valuable input and mentoring.
   * 18:30 Dinner
   * 20:00 Social event
