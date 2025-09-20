@@ -20,12 +20,16 @@ The following is a draft program outline.
   * 15:30 Keynote Speaker #1: Jens Malmodin:<br>
     Evaluating the energy consumption and greenhouse gas emissions associated with ICT products, networks, and services.
   * 16:30 Moderated Opening Discussion
-  * 17:00 Student, Doctoral, and Young Researchers forum<br>
+  * 17:00 Student, Doctoral, and Young Researchers forum (ICT)<br>
   Early-career researchers will present their ongoing or exploratory work. Each presentation will receive structured feedback from senior researchers, fostering valuable input and mentoring.
   	**Gudrun Gudmundsdottir** 
   	The purpose of the PhD project is to develop a scientifically valid and transparent absolute environmental sustainability assessment (AESA) model for ICT systems, aiming at laying ground for achieving absolute sustainability of ICT services. The project starts with looking at the life cycle impact and emissions of telecommunication network infrastructure (fixed and mobile), based on measured data in Sweden and Denmark through industry partnerships. By the end of year 2025 a first draft of a system model for user emissions of data transmission will be developed. State-of-the-art is embedded in the system model as well as considerations on the automation of calculations and communication/transfer of emissions between industry partners. <br>
-	**Pascal Emmenegger**
+	**Pascal Emmenegger** 
 	I study how hardware changes affect a network’s carbon footprint. While most studies estimate the current footprint (attributional assessment), I use consequential assessments to evaluate how today’s actions influence future emissions. With Romain Jacob (ETH Zurich), I model how adding, replacing, or removing hardware alters energy use and carbon emissions over time. The results guide operators toward lower-carbon network designs. At SUITS, I aim to refine this approach by collaborating with experts in green communications and sustainable infrastructure.   
+
+  * 17:45 Motivational Talk <br>
+	**Mahyar Tourchi Moghaddam** TBD <br>
+    **Maja H. Kirkeby** In this talk I will introduce the running experiment of the week, where we evaluate the energy model for end-user devices which is used in the British and the Danish Energy Reporting Models DIMPACT and digst.
   * 18:30 Dinner
   * 20:00 Social event
 
@@ -34,8 +38,11 @@ The following is a draft program outline.
   * 09:00 Keynote Speaker #2: Fernando Castor<br>
     Green software development and energy-efficient system design.
   * 10:00 Coffee Break
-  * 10:30 Student, Doctoral, and Young Researchers Forum (continued) \newline ~6 talks <br>
-    ~6 talks with structured feedback
+  * 10:30 Student, Doctoral, and Young Researchers Forum (Green Software) <br>
+    **Lise Grønland**	As software systems grow in complexity and scale, energy consumption increases, and the importance of code smells grows. I will research which code smells lead to increased energy consumption. These code smells are referred to as energy code smells and contribute to energy debt. I will be addressing this problem by conducting experiments on code smells and measuring the energy consumption.  I will use both hardware- and software-based measurement tools, applied on open-source repositories using Python or Java. My aim is to compare repositories and commits, with and without energy smells.  The goal is to create a static tool that identifies and suggests energy efficient alternatives to developers.<br>
+**Simão Cunha**	I'm a PhD student at the University of Minho, Portugal, working on a thesis on sustainability of local large language models. My research interests include LLMs, machine learning, and green software. My recent work includes a paper published at SLE'24 on applying CPU power caps to reduce energy consumption across programming languages while preserving performance. As a teaching assistant, I teach software development courses integrating Green Software principles and promoting sustainable coding. At SUITS, I aim to engage with fellow researchers, exchange ideas, collaborate on advancing sustainable, energy-efficient IT systems with real-world impact, and improve my skills to strengthen my PhD research.<br>
+**Brage Isak Bakkane Keiserås**	My research focuses on energy-efficient computing, with a particular interest in algorithms.  I am currently investigating whether GCC has become more energy-efficient throughout its evolution. This is to see if the principle of ""Compiler Optimizations Should Pay for Themselves"" holds in terms of energy, and to provide the groundwork for determining which types of compiler optimizations produce the most energy-efficient programs. Following that, I am aiming to do a similar analysis of which types of algorithms are the most energy-efficient. Overall, the goal of my research is to determine what the most energy-efficient programs are, and to create a simple yet impactful abstract model for the energy-consumption of algorithms.<br>
+**Esther Hahyeon Kim** This study examines the energy consumption characteristics of legacy and modernized IT systems through a real-world case provided by an industrial partner, thereby contributing to research on green software. The case study evaluates an ASP.NET Web Forms–based legacy application and a system migrated to ASP.NET Core API with Angular under identical workload conditions. Furthermore, beyond mere measurement, the study explores the potential of Large Language Models (LLMs) to automate energy data analysis and to support decision-making in modernization strategies, thereby demonstrating how intelligent tools can advance sustainable software engineering.<br>
   * 12:00 Lunch
   * 13:30 Motivational talks  ~4 talks<br>
     Senior researchers share perspectives on pressing challenges and promising directions within sustainable IT.
