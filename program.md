@@ -63,6 +63,7 @@ The following is a draft program outline.
     Energy-efficient networking and data transmission.
   * 10:00 Coffee Break
   * 10:30 Student, Doctoral, and Young Researchers Forum (Systems & Measurement) <br>
+  
   	* *Nilma Abbas* "Accuracy and Precision in Raspberry Pi 5’s Software-Reported Power Dissipation"<br> This study presents initial work on evaluating the precision and accuracy of power dissipation reported by the Raspberry Pi 5. These values, originating from the on-board power management IC, capture selected internal rails but exclude 5 V input loads (e.g., USB peripherals). Reliable software-based measurement is critical for reproducible energy studies in sustainable computing, particularly for web systems requiring cross-platform comparability. In this initial study we focus on controlled CPU workloads, where device-reported values are compared against external reference measurements. The results provide an important step toward validating the Raspberry Pi 5 as a platform for software-based power measurement and assessing its suitability for sustainability research and education.<br>
   	* *Timmie Lagermann* "Energy Analysis of UI Automation Testing Frameworks"<br> We evaluate per-action energy use across four web UI automation frameworks (Selenium, Puppeteer, Playwright, Nightwatch). Because frameworks implement actions differently, their overhead can bias energy measurements; measuring at the action level under controlled conditions provides a fair basis for comparison. In a client–server environment with external power metering, we study eight common actions—refresh; left/right/double click; checkbox; drag-and-drop; text input; scroll. Results show that per-action energy differs across frameworks and actions; we quantify these effects and analyze their implications for cross-framework comparability.<br>
   	* *Judith Herrmann* "Quantifying the Effects of RAPL Filtering" <br>	RAPL filtering (RAPL: Running Average Power Limit), as a counter measure to the PLATYPUS attacks, introduces noise into the believed-to-be-precise measured values on Intel platforms. In this work, we want to understand, how this artificially introduced noise impacts energy measurements. We have found, that for short code paths or snippets up to one second, the consumed energy between a filtered and unfiltered measurement can differ up to 20%. For visualizing this, we built a tool showing the gap allowing everyone to see the adverse effects on their own machine. Additionally we looked into the introduced noise to quantify and understand it better. With the help of statistical signal processing we were able to categorize the noise as Brownian noise.<br>
@@ -70,20 +71,20 @@ The following is a draft program outline.
  
   * 12:00 Lunch
   * 13:30 Student, Doctoral, and Young Researchers Forum (AI/LLM)<br>  
+  
   	* *Dragoș Ionescus* "EnergyBench: A Holistic and Systematic Benchmark for Measuring the Correctness and Energy-Efficiency of LLM-Generated Code"<br>	The increasing use of Large Language Models (LLMs) for automated software development creates a paradox: while LLM-generated code can boost energy-efficiency across industries through digital transformation, their often unsupervised usage in software development has the unintended effect of generating energy-inefficient code when trading for functional correctness. This work introduces a benchmarking framework to systematically assess when and how LLMs generate energy-efficient code. Results reveal that prompt engineering can enhance code efficiency by up to 91.9% for some LLMs, but often reduces code accuracy. To address complex trade-offs and gaps, we advocate community-driven, crowdsourced benchmarking via an online platform to enable more comprehensive, empirical testing.<br>
   	* *Ehsan Yousefzadeh-Asl-Miandoabs* "CARMA: Collocation-Aware Resource Manager with GPU Memory Estimator"<br>	Deep learning (DL) training tasks often underutilize GPUs due to lack of fine-grained sharing and collocation-unaware scheduling, causing out-of-memory (OOM) failures and inefficiency. My research addresses this by designing CARMA, a resource management system that enables safe, interference-aware GPU collocation. It integrates GPUMemNet, a predictive model for estimating peak GPU memory usage, allowing informed mapping and crash recovery. This work enhances GPU utilization, reduces energy use and training time, and contributes toward sustainable and efficient DL infrastructure for shared GPU clusters.<br>
 
   * 15:00 Coffee and Cake Break
   * 15:30 Motivational talks:<br>
-  	* *Raghavendra Selvan*  "Efficiency Is Not Enough: Toward Systems Thinking in Sustainable IT/AI" <br>
-    In this talk, I will point out why the pursuit of efficiency improvements is a necessary but not a sufficient condition when discussing sustainable IT/AI. I will point out rebound effects and how systems thinking can help advance sustainability.
-    * *Michael Kirkedal* "TBD" TBD <br>
+  	* *Raghavendra Selvan*  "Efficiency Is Not Enough: Toward Systems Thinking in Sustainable IT/AI" <br> In this talk, I will point out why the pursuit of efficiency improvements is a necessary but not a sufficient condition when discussing sustainable IT/AI. I will point out rebound effects and how systems thinking can help advance sustainability.
+    * *Michael Kirkedal* "TBD" <br> TBD <br>
  
   * 16:30 Technical Q/A (Tools and Hands-on) <br>
     This interactive session will provide hands-on advice and best practices for sustainable computing experiments, including power measurement techniques, experimental setup, and statistical anal
     sis.<br>
  
-    * *Simão Cunha*<br>  
+    * *Simão Cunha*<br>
     "Exploring Energy-Efficient Power Caps with Intel RAPL" <br>
     This session introduces practical techniques for measuring and optimizing software energy consumption using Intel RAPL. 
 	We will start with a short presentation explaining how the RAPL-based tool works, followed by a live demonstration to explore the framework's features. Then, you will complete a small exercise measuring the energy consumption (and other metrics) of a Fibonacci function in a programming language of your choice. Finally, we will collaboratively build a dataset with all participants' measurements in a shared Google Sheets file.
