@@ -17,7 +17,7 @@ The following is a draft program outline.
   * 14:00 Lightning talks<br>
     Each participant gives a short introduction of their research interests and motivation for attending. This session serves as an informal ice-breaker and helps set the stage for cross-disciplinary interaction.
   * 15:00 Coffee and Cake Break
-  * 15:30 Keynote Speaker #1: Jens Malmodin:<br>
+  * 15:30 Keynote Speaker #1: **Jens Malmodin**:<br>
     Evaluating the energy consumption and greenhouse gas emissions associated with ICT products, networks, and services. <br>
   * 16:30 Moderated Opening Discussion
   * 17:00 Student, Doctoral, and Young Researchers forum (ICT)<br>
@@ -42,7 +42,7 @@ The following is a draft program outline.
 
 ## Day 2: Tuesday 23rd
 
-  * 09:00 Keynote Speaker #2: Fernando Castor<br>
+  * 09:00 Keynote Speaker #2: **Fernando Castor**<br>
     Green software development and energy-efficient system design.
   * 10:00 Coffee Break
   * 10:30 Student, Doctoral, and Young Researchers Forum (Green Software) <br>
@@ -61,7 +61,7 @@ The following is a draft program outline.
 
 ## Day 3: Wednesday 24th
  
-  * 09:00 Keynote Speaker #3: Michael Welzl<br>
+  * 09:00 Keynote Speaker #3: **Michael Welzl**<br>
     Energy-efficient networking and data transmission.
   * 10:00 Coffee Break
   * 10:30 Student, Doctoral, and Young Researchers Forum (Systems & Measurement) <br>
@@ -108,7 +108,7 @@ The following is a draft program outline.
 
 ## Day 4: Thursday 25th
 
-  * 09:00 Keynote Speaker #4: Kerstin Eder<br>
+  * 09:00 Keynote Speaker #4: **Kerstin Eder**<br>
     System-level energy optimization and energy-aware software design.
   * 10:00 Coffee Break
   * 10:30 Panel debate<br>
