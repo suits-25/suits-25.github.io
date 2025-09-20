@@ -22,11 +22,9 @@ The following is a draft program outline.
   * 16:30 Moderated Opening Discussion
   * 17:00 Student, Doctoral, and Young Researchers forum (ICT)<br>
   Early-career researchers will present their ongoing or exploratory work. Each presentation will receive structured feedback from senior researchers, fostering valuable input and mentoring.<br>
-  
-  	* **Gudrun Gudmundsdottir*: "Modeling the Environmental Footprint of ICT Networks and Services"<br>
+  	- **Gudrun Gudmundsdottir*: "Modeling the Environmental Footprint of ICT Networks and Services"<br>
   	The purpose of the PhD project is to develop a scientifically valid and transparent absolute environmental sustainability assessment (AESA) model for ICT systems, aiming at laying ground for achieving absolute sustainability of ICT services. The project starts with looking at the life cycle impact and emissions of telecommunication network infrastructure (fixed and mobile), based on measured data in Sweden and Denmark through industry partnerships. By the end of year 2025 a first draft of a system model for user emissions of data transmission will be developed. State-of-the-art is embedded in the system model as well as considerations on the automation of calculations and communication/transfer of emissions between industry partners. <br>
-
-	* **Pascal Emmenegger*:"Designing Low-Carbon Networks Through Informed Hardware Choices"<br>
+	- **Pascal Emmenegger*:"Designing Low-Carbon Networks Through Informed Hardware Choices"<br>
 	I study how hardware changes affect a network’s carbon footprint. While most studies estimate the current footprint (attributional assessment), I use consequential assessments to evaluate how today’s actions influence future emissions. With Romain Jacob (ETH Zurich), I model how adding, replacing, or removing hardware alters energy use and carbon emissions over time. The results guide operators toward lower-carbon network designs. At SUITS, I aim to refine this approach by collaborating with experts in green communications and sustainable infrastructure.   
 
   * 17:45 Motivational Talk <br>
