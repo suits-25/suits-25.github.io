@@ -82,11 +82,10 @@ The following is a draft program outline.
   * 15:00 Coffee and Cake Break
   * 15:30 Motivational talks:<br> 
  
-  	* *Raghavendra Selvan* 
-    "Efficiency Is Not Enough: Toward Systems Thinking in Sustainable IT/AI" <br>
+  	* *Raghavendra Selvan*  "Efficiency Is Not Enough: Toward Systems Thinking in Sustainable IT/AI" <br>
     In this talk, I will point out why the pursuit of efficiency improvements is a necessary but not a sufficient condition when discussing sustainable IT/AI. I will point out rebound effects and how systems thinking can help advance sustainability.
     
-  	* *Michael Kirkedal* "" <br>
+  	* *Michael Kirkedal* "TBD" TBD <br>
  
   * 16:30 Technical Q/A (Tools and Hands-on) <br>
     This interactive session will provide hands-on advice and best practices for sustainable computing experiments, including power measurement techniques, experimental setup, and statistical anal
