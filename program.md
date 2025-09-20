@@ -62,16 +62,15 @@ The following is a draft program outline.
   * 09:00 Keynote Speaker #3: Michael Welzl<br>
     Energy-efficient networking and data transmission.
   * 10:00 Coffee Break
-  * 10:30 Student, Doctoral, and Young Researchers Forum (Systems & Measurement)<br>  
- 
-  	* *Nilma Abbas* "Accuracy and Precision in Raspberry Pi 5’s Software-Reported Power Dissipation"<br>	This study presents initial work on evaluating the precision and accuracy of power dissipation reported by the Raspberry Pi 5. These values, originating from the on-board power management IC, capture selected internal rails but exclude 5 V input loads (e.g., USB peripherals). Reliable software-based measurement is critical for reproducible energy studies in sustainable computing, particularly for web systems requiring cross-platform comparability. In this initial study we focus on controlled CPU workloads, where device-reported values are compared against external reference measurements. The results provide an important step toward validating the Raspberry Pi 5 as a platform for software-based power measurement and assessing its suitability for sustainability research and education.<br>
+  * 10:30 Student, Doctoral, and Young Researchers Forum (Systems & Measurement) <br>
+  
+    * *Nilma Abbas* "Accuracy and Precision in Raspberry Pi 5’s Software-Reported Power Dissipation"<br>	This study presents initial work on evaluating the precision and accuracy of power dissipation reported by the Raspberry Pi 5. These values, originating from the on-board power management IC, capture selected internal rails but exclude 5 V input loads (e.g., USB peripherals). Reliable software-based measurement is critical for reproducible energy studies in sustainable computing, particularly for web systems requiring cross-platform comparability. In this initial study we focus on controlled CPU workloads, where device-reported values are compared against external reference measurements. The results provide an important step toward validating the Raspberry Pi 5 as a platform for software-based power measurement and assessing its suitability for sustainability research and education.<br>
  
   	* *Timmie Lagermann* "Energy Analysis of UI Automation Testing Frameworks"<br>	We evaluate per-action energy use across four web UI automation frameworks (Selenium, Puppeteer, Playwright, Nightwatch). Because frameworks implement actions differently, their overhead can bias energy measurements; measuring at the action level under controlled conditions provides a fair basis for comparison. In a client–server environment with external power metering, we study eight common actions—refresh; left/right/double click; checkbox; drag-and-drop; text input; scroll. Results show that per-action energy differs across frameworks and actions; we quantify these effects and analyze their implications for cross-framework comparability.<br>
  
   	* *Judith Herrmann* "Quantifying the Effects of RAPL Filtering" <br>	RAPL filtering (RAPL: Running Average Power Limit), as a counter measure to the PLATYPUS attacks, introduces noise into the believed-to-be-precise measured values on Intel platforms. In this work, we want to understand, how this artificially introduced noise impacts energy measurements. We have found, that for short code paths or snippets up to one second, the consumed energy between a filtered and unfiltered measurement can differ up to 20%. For visualizing this, we built a tool showing the gap allowing everyone to see the adverse effects on their own machine. Additionally we looked into the introduced noise to quantify and understand it better. With the help of statistical signal processing we were able to categorize the noise as Brownian noise.<br>
  
   	* *Samuel Xavier de Souzas* "Holistic Software Operation for Sustainable Computing"<br>	The growing complexity of multicore and heterogeneous hardware has created an exponentially large software configuration space. Portable code often results in non-specialized software that requires runtime optimization for energy efficiency. Our research addresses this with a holistic approach to energy-aware software operation. We use a low-overhead combination of offline/online modeling, integrated with the OS and phase-aware techniques, to dynamically optimize configurations like thread count and NUMA mapping. This enables user-centric tools that guide applications to quasi-optimal energy points, achieving results close to an oracle solution and orders of magnitude better than worst-case scenarios. Our work contributes to energy-efficient scalable computing infrastructures.<br>
- 
  
   * 12:00 Lunch
   * 13:30 Student, Doctoral, and Young Researchers Forum (AI/LLM)<br>  
@@ -81,14 +80,14 @@ The following is a draft program outline.
   	* *Ehsan Yousefzadeh-Asl-Miandoabs* "CARMA: Collocation-Aware Resource Manager with GPU Memory Estimator"<br>	Deep learning (DL) training tasks often underutilize GPUs due to lack of fine-grained sharing and collocation-unaware scheduling, causing out-of-memory (OOM) failures and inefficiency. My research addresses this by designing CARMA, a resource management system that enables safe, interference-aware GPU collocation. It integrates GPUMemNet, a predictive model for estimating peak GPU memory usage, allowing informed mapping and crash recovery. This work enhances GPU utilization, reduces energy use and training time, and contributes toward sustainable and efficient DL infrastructure for shared GPU clusters.<br>
  
   * 15:00 Coffee and Cake Break
-  * 15:30 Motivational talks 
+  * 15:30 Motivational talks:<br> 
  
   	* *Raghavendra Selvan* 
     "Efficiency Is Not Enough: Toward Systems Thinking in Sustainable IT/AI" <br>
     In this talk, I will point out why the pursuit of efficiency improvements is a necessary but not a sufficient condition when discussing sustainable IT/AI. I will point out rebound effects and how systems thinking can help advance sustainability.
     
   	* *Michael Kirkedal* "" <br>
-  <br>
+ 
   * 16:30 Technical Q/A (Tools and Hands-on) <br>
     This interactive session will provide hands-on advice and best practices for sustainable computing experiments, including power measurement techniques, experimental setup, and statistical anal
     sis.<br>
