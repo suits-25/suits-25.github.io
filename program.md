@@ -69,7 +69,10 @@ The following is a draft program outline.
   **Ehsan Yousefzadeh-Asl-Miandoabs**: *CARMA: Collocation-Aware Resource Manager with GPU Memory Estimator*<br>	Deep learning (DL) training tasks often underutilize GPUs due to lack of fine-grained sharing and collocation-unaware scheduling, causing out-of-memory (OOM) failures and inefficiency. My research addresses this by designing CARMA, a resource management system that enables safe, interference-aware GPU collocation. It integrates GPUMemNet, a predictive model for estimating peak GPU memory usage, allowing informed mapping and crash recovery. This work enhances GPU utilization, reduces energy use and training time, and contributes toward sustainable and efficient DL infrastructure for shared GPU clusters.<br>
   * 15:00 Coffee and Cake Break
   * 15:30 Motivational talks 
-  **Raghavendra Selvan** <br>
+  **Raghavendra Selvan**
+    *Efficiency Is Not Enough: Toward Systems Thinking in Sustainable IT/AI* <br>
+    In this talk, I will point out why the pursuit of efficiency improvements is a necessary but not a sufficient condition when discussing sustainable IT/AI. I will point out rebound effects and how systems thinking can help advance sustainability.
+    
   **Michael Kirkedal**: <br>
   * 16:30 Technical Q/A (Tools and Hands-on) <br>
     This interactive session will provide hands-on advice and best practices for sustainable computing experiments, including power measurement techniques, experimental setup, and statistical anal
@@ -79,7 +82,8 @@ The following is a draft program outline.
     This session introduces practical techniques for measuring and optimizing software energy consumption using Intel RAPL. 
 	We will start with a short presentation explaining how the RAPL-based tool works, followed by a live demonstration to explore the framework's features. Then, you will complete a small exercise measuring the energy consumption (and other metrics) of a Fibonacci function in a programming language of your choice. Finally, we will collaboratively build a dataset with all participants' measurements in a shared Google Sheets file.
     **Raghavendra Selvan** <br>
-    
+    *Carbontracker for Endpoint Devices: Measuring Energy and Carbon Emissions*<br>
+    Measuring the energy consumption and carbon emissions of IT infrastructure is challenging, and more so, when tackling it across the lifecycle. In this demo, we will use Carbontracker to measure the environmental impact of endpoint devices, and discuss the limitations and challenges in expanding this to the entire lifecycle of IT infrastructure using AI models as a use-case.
     **Maja H. Kirkeby**<br>
     *Evaluating models of Digital Services:From Experiment Design to Statistical Analysis* <br>
     This hands-on session introduces participants to the design and execution of experiments for measuring the energy use of end-user devices, with a focus on web browsing workloads. Using external power meters, we will walk through how to set up reproducible tests, control for confounding factors (e.g., device generation, display brightness, workload type), and collect usable datasets. The session also covers essential statistical techniques for analyzing measurement variability, comparing results across devices, and evaluating existing energy models against empirical data.
