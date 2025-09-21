@@ -32,8 +32,7 @@ The following is a draft program outline.
   * 17:45 Motivational Talk <br>
   Senior researchers share perspectives on pressing challenges and promising directions within sustainable IT. <br>
   
-	* <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Mahyar Tourchi Moghaddam*, "Behaviors and Sustainability<img width="1125" height="140" alt="image" src="https://github.com/user-attachments/assets/ccc72735-9439-4cb1-b3a1-7534cc15db82" />
-"</span><span style="display: none;"><br>
+	* <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Mahyar Tourchi Moghaddam*, "Behaviors and Sustainability"</span><span style="display: none;"><br>
 		This talk shows how human-centered and adaptive design can make IT systems more sustainable. Through case studies in crowd management and human-robot collaboration, we explore the Internet of Behaviors, multidimensional sustainability, and energy-efficient offloading over edge and cloud.
 	<br></span>
 	
