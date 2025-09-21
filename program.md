@@ -32,8 +32,9 @@ The following is a draft program outline.
   * 17:45 Motivational Talk <br>
   Senior researchers share perspectives on pressing challenges and promising directions within sustainable IT. <br>
   
-	* <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Mahyar Tourchi Moghaddam*, "Self-adaptive Architectures for Sustainable Edge Computing"</span><span style="display: none;"><br>
-		The growth of compute-intensive AI tasks highlights the need to mitigate the processing costs and improve performance and energy efficiency. This necessitates the integration of intelligent agents as architectural adaptation supervisors tasked with adaptive scaling of the infrastructure and efficient offloading of computation within the continuum. I present a self-adaptation approach for an efficient computing system of a mixed human-robot environment. The computation task is associated with a Neural Network algorithm that leverages sensory data to predict human mobility behaviors, to enhance mobile robots' proactive path planning, and ensure human safety. To streamline neural network processing, we built a distributed edge offloading system with heterogeneous processing units, orchestrated by Kubernetes. By monitoring response times and power consumption, the MAPE-K-based adaptation supervisor makes informed decisions on scaling and offloading.
+	* <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Mahyar Tourchi Moghaddam*, "Behaviors and Sustainability<img width="1125" height="140" alt="image" src="https://github.com/user-attachments/assets/ccc72735-9439-4cb1-b3a1-7534cc15db82" />
+"</span><span style="display: none;"><br>
+		This talk shows how human-centered and adaptive design can make IT systems more sustainable. Through case studies in crowd management and human-robot collaboration, we explore the Internet of Behaviors, multidimensional sustainability, and energy-efficient offloading over edge and cloud.
 	<br></span>
 	
   * 18:10 The Experiment of the week<br>
