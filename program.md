@@ -87,7 +87,7 @@ The following is a draft program outline.
 
     * <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Raghavendra Selvan*, "Efficiency Is Not Enough: Toward Systems Thinking in Sustainable IT/AI" </span><span style="display: none;"><br> In this talk, I will point out why the pursuit of efficiency improvements is a necessary but not a sufficient condition when discussing sustainable IT/AI. I will point out rebound effects and how systems thinking can help advance sustainability.<br></span>
 
-    * <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Michael Kirkedal*, "EI and Energy"</span><span style="display: none;"><br> ...TBD... <br></span>
+    * <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Michael Kirkedal Thomsen*, "EI and Energy"</span><span style="display: none;"><br> In this talk we will investigate the relation between EI and energy. What is the fundamental relation and influence does it have when we take EI to the limits?<br></span>
  
   * 16:30 Technical Q/A (Tools and Hands-on) <br>
     This interactive session will provide hands-on advice and best practices for sustainable computing experiments, including power measurement techniques, experimental setup, and statistical anal
