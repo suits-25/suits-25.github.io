@@ -90,20 +90,17 @@ The following is a draft program outline.
     * <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Michael Kirkedal Thomsen*, "EI and Energy"</span><span style="display: none;"><br> In this talk we will investigate the relation between EI and energy. What is the fundamental relation and influence does it have when we take EI to the limits?<br></span>
  
   * 16:30 Technical Q/A (Tools and Hands-on) <br>
-    This interactive session will provide hands-on advice and best practices for sustainable computing experiments, including power measurement techniques, experimental setup, and statistical anal
-    sis.<br>
+    This interactive session will provide hands-on advice and best practices for sustainable computing experiments, including power measurement techniques, experimental setup, and statistical analysis.<br>
  
     * <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Simão Cunha*,
     "Exploring Energy-Efficient Power Caps with Intel RAPL" </span><span style="display: none;"><br>
     This session introduces practical techniques for measuring and optimizing software energy consumption using Intel RAPL. 
 	We will start with a short presentation explaining how the RAPL-based tool works, followed by a live demonstration to explore the framework's features. Then, you will complete a small exercise measuring the energy consumption (and other metrics) of a Fibonacci function in a programming language of your choice. Finally, we will collaboratively build a dataset with all participants' measurements in a shared Google Sheets file.</span>
    
-    * <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Raghavendra Selvan*</span><span style="display: none;"> <br>
-    "Carbontracker for Endpoint Devices: Measuring Energy and Carbon Emissions"<br>
+    * <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Raghavendra Selvan*</span> <br>
+    "Carbontracker for Endpoint Devices: Measuring Energy and Carbon Emissions"<span style="display: none;"><br>
     Measuring the energy consumption and carbon emissions of IT infrastructure is challenging, and more so, when tackling it across the lifecycle. In this demo, we will use Carbontracker to measure the environmental impact of endpoint devices, and discuss the limitations and challenges in expanding this to the entire lifecycle of IT infrastructure using AI models as a use-case.</span>
    
-    * <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Maja H. Kirkeby*, "Evaluating models of Digital Services:From Experiment Design to Statistical Analysis" </span><span style="display: none;"><br>
-    This hands-on session introduces participants to the design and execution of experiments for measuring the energy use of end-user devices, with a focus on web browsing workloads. Using external power meters, we will walk through how to set up reproducible tests, control for confounding factors (e.g., device generation, display brightness, workload type), and collect usable datasets. The session also covers essential statistical techniques for analyzing measurement variability, comparing results across devices, and evaluating existing energy models against empirical data.</span>
   * 18:30 Dinner
 
 ## Day 4: Thursday 25th
@@ -111,9 +108,12 @@ The following is a draft program outline.
   * 09:00 Keynote Speaker #4: **Kerstin Eder**<br>
     System-level energy optimization and energy-aware software design.
   * 10:00 Coffee Break
-  * 10:30 Panel debate<br>
+  * 10:30 Experiment and statistical analysis<br>
+    * <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;">*Maja H. Kirkeby*, "Evaluating models of Digital Services:From Experiment Design to Statistical Analysis" </span><span style="display: none;"><br>
+    This hands-on session introduces participants to the design and execution of experiments for measuring the energy use of end-user devices, with a focus on web browsing workloads. Using external power meters, we will walk through how to set up reproducible tests, control for confounding factors (e.g., device generation, display brightness, workload type), and collect usable datasets. The session also covers essential statistical techniques for analyzing measurement variability, comparing results across devices, and evaluating existing energy models against empirical data.</span>
+  * 10:45 Panel debate<br>
     A closing panel with keynote speakers and selected participants will discuss future challenges and potential collaborative directions.
-  * 11:00 Summary lightnings<br>
+  * 11:15 Summary lightnings<br>
     Participants will summarize key takeaways and potential collaborations.
   * 12:00-13:00 Closing Lunch
 
